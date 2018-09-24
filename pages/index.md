@@ -1,12 +1,10 @@
 ---
 layout: home
-title: Welcome
+title: Hello, I am Shiao Shyan
 permalink: /
 section: home
 intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+  I help marketers build online success with digital analytics
+  using Google Analytics, Google Tag Manager as well as machine learning.
+  
 ---
