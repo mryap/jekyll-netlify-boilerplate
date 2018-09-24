@@ -4,8 +4,6 @@ title: The Blog
 permalink: /blog
 section: blog
 intro_paragraph: >
-  This is the Blog index page, listing each post with an
-  automatically generated post excerpt. It's a normal Jekyll page but uses
-  the `_layouts/blog.html` template to output the blog's posts after the page
-  content.
+  My scrappy notes on how to build online success with
+  data analytics, data science, product marketing.
 ---
