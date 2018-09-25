@@ -1,0 +1,63 @@
+---
+title: "Predicting the Next Click"
+author: "Yap Shiao Shyan"
+date: "7th June 2017"
+output:
+  pdf_document: default
+  html_notebook: default
+---
+
+References
+
+Scholz, M. (2016) R Package clickstream: Analyzing Clickstream Data with Markov Chains, Journal
+of Statistical Software, 74, 4, pages 1-17 .
+
+Ching, W.-K.and Huang, X. and Ng, M.K. and Siu, T.-K. (2013) Markov Chains - Models, Algorithms
+and Applications, 2nd edition, New York: Springer-Verlag.
+
+
+```{r}
+library("clickstream")
+# fitting a simple Markov chain and predicting the next click
+clickstreams <- c("User1,h,c,c,p,c,h,c,p,p,c,p,p,o",
+                  "User2,i,c,i,c,c,c,d",
+                  "User3,h,i,c,i,c,p,c,c,p,c,c,i,d",
+                  "User4,c,c,p,c,d",
+                  "User5,h,c,c,p,p,c,p,p,p,i,p,o",
+                  "User6,i,h,c,c,p,p,c,p,c,d")
+csf <- tempfile()
+writeLines(clickstreams, csf)
+cls <- readClickstreams(csf, header = TRUE)
+mc <- fitMarkovChain(cls)
+
+hmPlot(mc, order = 1, absorptionProbability = FALSE, title = "Predicting the next Click",
+       lowColor = "yellow", highColor = "red", flip = FALSE)
+```
+
+
+Performs k-means clustering on a list of clickstreams. For each clickstream a transition matrix of a given order is computed. These transition matrices are used as input for performing k-means clustering.
+
+```{r}
+csf <- tempfile()
+writeLines(clickstreams, csf)
+cls <- readClickstreams(csf, header = TRUE)
+clusters <- clusterClickstreams(cls, order = 0, centers = 2)
+print(clusters)
+```
+```{r}
+# fitting a simple Markov chain and predicting the next click
+clickstreams <- c("User1,h,c,c,p,c,h,c,p,p,c,p,p,o",
+"User2,i,c,i,c,c,c,d",
+"User3,h,i,c,i,c,p,c,c,p,c,c,i,d",
+"User4,c,c,p,c,d",
+"User5,h,c,c,p,p,c,p,p,p,i,p,o",
+"User6,i,h,c,c,p,p,c,p,c,d")
+csf <- tempfile()
+writeLines(clickstreams, csf)
+cls <- readClickstreams(csf, header = TRUE)
+mc <- fitMarkovChain(cls)
+startPattern <- new("Pattern", sequence = c("h", "c"))
+predict(mc, startPattern)
+plot(mc)
+```
+
