@@ -8,4 +8,3 @@ Another metrics you should seek to measure are those that ties in with your ship
 
 Notice that I never mention the metrics as I do not want to give the game away. Hire Me and I draw out a measurement plan with the critical metrics that matters to your business models. 
 
-## 
