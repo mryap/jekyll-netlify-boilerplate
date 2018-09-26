@@ -6,6 +6,10 @@ description: Google Analytics User ID features allows you to track the same visi
 image: "/img/measurement-in-mutli-screen-world5.jpg"
 ---
 
+![](https://www.evernote.com/shard/s1/res/0004e180-b37f-4147-ac79-62b2a7b1ffb1)
+
+
+
 People are bringing mobile and tablet into the research and buying cycle. As a business owner, you need to understand what is really leading to the sales and how users are combining all these devices when they visit your online property.
 
 
