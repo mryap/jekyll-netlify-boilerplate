@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Critical Metrics In Ecommerce
-author: mryap
-date: '2018-09-26 12:00:00'
+author: john_doe
+date: '2018-09-26 10:07:32'
+intro_paragraph: ''
 categories: misc
 ---
-
 For most websites, visitors rarely convert after the first visit. Most commonly, the first visit is used to gauge credibility. Subsequent visits may involve more complex interactions and, possibly, conversion events, which may happen weeks or months after the initial visit.  
 
 You should look for metrics to measure how many times do people visit before they finally convert or take some other desirable action. The metrics helps to answer questions like Do those visits occur within a short time frame or are there large gaps between sessions? 
