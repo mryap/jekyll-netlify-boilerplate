@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Critical Metrics In Ecommerce
-author: john_doe
+author: YAP S S
 date: '2018-09-26 10:07:32'
-intro_paragraph: ''
-categories: misc
+categories: metrics
 ---
 For most websites, visitors rarely convert after the first visit. Most commonly, the first visit is used to gauge credibility. Subsequent visits may involve more complex interactions and, possibly, conversion events, which may happen weeks or months after the initial visit.  
 
