@@ -3,12 +3,11 @@ layout: post
 title: Speed and Security - 2 elements you can't ignore
 categories:
 - Conversion Optimisation
-
 ---
 
 
 
-###   <a name="speed"></a>Speed
+###   Speed
 
 Starting in July 2018, page speed will be a ranking factor for mobile searches. Here are some resources that can be used to evaluate a website page’s performance.
 
@@ -22,10 +21,8 @@ Starting in July 2018, page speed will be a ranking factor for mobile searches. 
 
 
 
-### <a name="https"></a>Upgrade your website to HTTPS
+### Upgrade your website to HTTPS
 
 Popular search engines like Google prioritize sites served over HTTPS.  Google has announced a deadline of July 2018 as the date for when Chrome will begin explicitly warning users if a site is insecure. [[Link](https://security.googleblog.com/2018/02/a-secure-web-is-here-to-stay.html)]
 
-Most web hosting providers already provide free HTTPS certificates as well as low cost certificates. 
-
-Netlify provides this functionality for free, even for custom domains, with their 1-Click SSL through Let’s Encrypt.
+Most web hosting providers already provide free HTTPS certificates as well as low cost certificates. Netlify provides this functionality for free, even for custom domains, with their 1-Click SSL through Let’s Encrypt.
