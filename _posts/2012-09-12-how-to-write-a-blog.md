@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Troubleshooting Jekyll page"
+date: '2018-07-06 12:00:00'
 ---
 
 # Welcome
