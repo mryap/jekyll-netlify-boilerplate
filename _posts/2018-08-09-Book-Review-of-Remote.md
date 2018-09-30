@@ -5,9 +5,11 @@ author: YAP S S
 date: '2018-08-09 10:28:54'
 categories: bookreview
 ---
-![](https://cdn-images-1.medium.com/max/600/1*dwlio1Ve_h8BWlF7fLtnUQ.jpeg)
 
-Picked this up at a local library. Authored by Founders of 37Signals, they lay out the argument for working remotely and not bound by a geographical location.
+
+Picked up a copy of Remote at a local library. Authored by Founders of 37Signals, they lay out the argument for working remotely and not bound by a geographical location.
+
+![](https://cdn-images-1.medium.com/max/600/1*dwlio1Ve_h8BWlF7fLtnUQ.jpeg)
 
 Draw on their experience of managing remote workforce in New Zealand and Denmark from Chicago as well as other progressive company, the book shows how you can reap the benefits of having a remote work force and mitigate the drawbacks.
 
