@@ -10,5 +10,15 @@ I make the leap from LAMP stack (WordPress CMS) to JAM Stack bypassing MEAN stac
 ![Webdev-stack Screenshot](/assets/img/uploads/webdev-stack.jpg)
 
 
-The outcome is a fast loading website that is critical for conversion optimsiation as well as good for mobile search ranking.
+The outcome is a fast loading website that is good for User Experience, Search Engine Optimisation - both critical for conversion optimsiation.
+
+With content host on GitHub, this means my blog post in markdown file format are free from the cage of CMS database such as WordPress. The markdown files are also easily portable.  
+
+At one time, I use to publish on Medium. It free me from tinkering the web sites - a pursuit I relish as it feed my inner geeks and  forces me to focus on writing content. However, it just does not allows you to have Google Analytics install. 
+
+Hopefully, I am content with the layout and look and feel of this website so I can continue writing, 
+
+
+
+
 
