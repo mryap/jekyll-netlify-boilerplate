@@ -2,7 +2,7 @@
 layout: post
 title: Book Review of Remote
 author: YAP S S
-date: '2018-08-09'
+date: '2018-08-09 10:28:54'
 categories: bookreview
 ---
 ![](https://cdn-images-1.medium.com/max/600/1*dwlio1Ve_h8BWlF7fLtnUQ.jpeg)
