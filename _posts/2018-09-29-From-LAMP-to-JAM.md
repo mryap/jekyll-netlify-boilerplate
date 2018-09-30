@@ -5,5 +5,10 @@ author: YAP S S
 date: '2018-09-29 23:16:00'
 categories: misc
 ---
-I make the leap from LAMP stack (WordPress CMS) to JAM Stack bypassing MEAN stack all together to build this website. The outcome is a fast loading website that is critical for conversion optimsiation as well as good for mobile search ranking.
+I make the leap from LAMP stack (WordPress CMS) to JAM Stack bypassing MEAN stack all together to build this website. 
+
+![Webdev-stack Screenshot](/assets/img/uploads/webdev-stack.jpg)
+
+
+The outcome is a fast loading website that is critical for conversion optimsiation as well as good for mobile search ranking.
 
