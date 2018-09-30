@@ -5,8 +5,6 @@ description: The most effective, ethical, and modern approach to data teamwork
 image: "/img/data-practice-manfestio.png"
 ---
 
-![](https://res.cloudinary.com/mryap/image/upload/c_fit,w_640/v1537208144/data-practice-manfestio.png)
-
 These principles, taken together, describe the most effective, ethical, and modern approach to data teamwork.
 
 * Use data to improve life for our users, customers, organizations, and communities.
@@ -21,5 +19,8 @@ These principles, taken together, describe the most effective, ethical, and mode
 * Respect and invite fair criticism while promoting the identification and open discussion of errors, risks, and unintended consequences of our work.
 * Protect the privacy and security of individuals represented in our data.
 * Help others to understand the most useful and appropriate applications of data to solve real-world problems.
+
+
+![](https://res.cloudinary.com/mryap/image/upload/c_fit,w_640/v1537208144/data-practice-manfestio.png)
 
 Join the movement at https://datapractices.org/manifesto/
