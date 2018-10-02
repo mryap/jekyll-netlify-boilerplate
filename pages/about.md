@@ -4,15 +4,18 @@ title: About
 permalink: /about
 section: about
 intro_paragraph: |
-   My approach to data analytics.
+   Web analytics comprises a mix of fields, from data analytics, website development, digital marketing, consumer behaviour and system administration - a combination which triggered my inner nerd.
 ---
-Data analytics combines knowledge of customer with their larger patterns of activity and behaviour. Then combine that knowledge with the broader patterns that affect client business—geography, demography, weather, social media activity, competition or anything else you need—to get a more complete picture of their target audience. 
+
+## My approach to data analytics
+
+Data analytics combines knowledge of customer with their larger patterns of activity and behaviour. Then combine that knowledge with the broader patterns that affect client business—geography, demography, weather, social media activity, competition or anything else you need—to get a more complete picture of their target audience.
 
 Today's consumer journey is multi-channel and multi-device. You need consumer insights from a variety of connected data sources to form a comprehensive view of the groups being analyzed. The insights offered must derived from real consumer data and not just being inferred if possible. Data is only as powerful as client ability and capacity to act on it. By focusing on key metrics - i.e. user retention rates, client become data driven.  
 
 ### Ensure data is fit for purpose
 
-By auditing Google Analytics setups to establish the quality of the data collected. As the saying goes, garbage in garbage out. My good understanding of UTM parameters ensure every traffic to the site is tagged. 
+By auditing Google Analytics setups to establish the quality of the data collected. As the saying goes, garbage in garbage out. My good understanding of UTM parameters ensure every traffic to the site is tagged.
 
 #### Segmentation
 
