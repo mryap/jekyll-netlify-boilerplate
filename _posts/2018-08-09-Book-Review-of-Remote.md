@@ -24,7 +24,7 @@ My favourite part of the book is where they layout the excuses and how to deal w
 To quote Richard Benson
 
 > To successfully work with other people, you have to trust each other. A big part of this is trusting people to get their work done wherever they are, without supervision.
->
+
 
 
 
