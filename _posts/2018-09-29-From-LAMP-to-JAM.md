@@ -7,6 +7,8 @@ categories: misc
 ---
 I make the leap from LAMP Stack (WordPress CMS) to JAM Stack bypassing MEAN Stack all together to build this website.
 
+Stack are a collection of software components that interact to form a complete technology solutions.   WordPress itself is an application of multiple components - a web server that serves up the code, an interpreted scripting language, PHP and a database server, MySQL.
+
 ![Webdev-stack Screenshot](/assets/img/uploads/webdev-stack.jpg)
 *Source: The JAMstack: It’s Pretty Sweet*
 
