@@ -4,11 +4,11 @@ title: About
 permalink: /about
 section: about
 intro_paragraph: |
-   mryap.co is me, Yap Shiao Shyan. I help small to medium organisations, autonomous business unit within larger organisations get more insight and optimization opportunities 
-published: false
+   Digital analytics comprises a mix of fields, from data analytics, website development, digital marketing, consumer behaviour and system administration - a combination which triggered my inner nerd. 
+published: true
 ---
 
-Web analytics comprises a mix of fields, from data analytics, website development, digital marketing, consumer behaviour and system administration - a combination which triggered my inner nerd.
+
 
 ## My approach to data analytics
 
