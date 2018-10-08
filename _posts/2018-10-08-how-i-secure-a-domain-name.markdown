@@ -30,10 +30,10 @@ and bring them to someone website.
 
 I also consider paring my family name with .ME but sounds so weird.
 
-At one point, I settle for a domain name and found out it is a hashtag for a
+My search for the perfect domain name brings me to Twitter. The domain name also need to match a social media handle. At one point, I settle for a domain name and found out on Twitter, it is a hashtag for a
 good fitted bra initiative!
 
 # My lost is a gain in knowledge
 
 While it not critical for me that the said domain name is lost. I want to get myself
-familiar with the process so I can advise my client or future employer. 
+familiar with the process so I can advise my client or future employer.
