@@ -20,4 +20,8 @@ With content host on GitHub, this means my blog post in markdown file format are
 
 At one time, I use to publish on Medium. It free me from tinkering the web sites - a pursuit I relish as it feed my inner geeks and  forces me to focus on writing content. However, it just does not allows you to have Google Analytics install.
 
-Hopefully, I am content with the layout and look and feel of this website so I can continue writing,
+Hopefully, I am content with the layout and look and feel of this website so I can continue writing.
+
+My new work space for the website looks like this 
+
+https://res.cloudinary.com/mryap/image/upload/v1539016981/atom-editor.png
