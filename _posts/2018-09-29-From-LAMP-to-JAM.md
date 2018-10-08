@@ -24,4 +24,4 @@ Hopefully, I am content with the layout and look and feel of this website so I c
 
 My new work space for the website looks like this
 
-![Screenshot in Atom Editor] (https://res.cloudinary.com/mryap/image/upload/v1539016981/atom-editor.png)
+![Screenshot in Atom Editor](https://res.cloudinary.com/mryap/image/upload/v1539016981/atom-editor.png)
