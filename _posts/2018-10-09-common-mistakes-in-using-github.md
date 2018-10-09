@@ -2,7 +2,7 @@
 layout: post
 title: Common Mistakes in using GitHub
 author: YAP S S
-date: "2018-10-09 13:11"
+date: '2018-10-09 13:11'
 ---
 
 
