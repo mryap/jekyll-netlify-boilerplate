@@ -1,6 +1,6 @@
 ---
 layout: post
-title&#58 Common Mistakes in using GitHub
+title: Common Mistakes in using GitHub
 date: "2018-10-09 13:11"
 ---
 
