@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Losing My Domain Name
+author: YAP S S
 date: '2018-10-08 16:59'
 ---
 
