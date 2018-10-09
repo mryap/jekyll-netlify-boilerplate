@@ -2,7 +2,6 @@
 layout: post
 title: Common Mistakes in using GitHub
 date: "2018-10-09 13:11"
-# categories: "Data Science"
 ---
 
 # Git push requires username and password
