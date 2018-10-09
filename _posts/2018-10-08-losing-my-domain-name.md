@@ -3,6 +3,7 @@ layout: post
 title: Losing My Domain Name
 author: YAP S S
 date: '2018-10-08 16:59'
+categories: misc
 ---
 
 I used to have a personal site with domain name `getoptimise` dot com
