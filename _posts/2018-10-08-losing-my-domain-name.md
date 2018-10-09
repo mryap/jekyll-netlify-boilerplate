@@ -12,7 +12,7 @@ My failure not to renew on times means someone bought it and I have to fork out
 absence amount to get it back. I always have the impression that domain name not
 renew will be 'back to the pool' again and I can buy it back. There are people who standby and snag them the moment when your domain name expired when you did not renew on time.
 
-![](https://res.cloudinary.com/mryap/image/upload/v1539066791/www.whois.com_whois_getoptimise.com.png)
+![The new owner of my old domain name](https://res.cloudinary.com/mryap/image/upload/v1539066791/www.whois.com_whois_getoptimise.com.png)
 
 ### All things consider
 
