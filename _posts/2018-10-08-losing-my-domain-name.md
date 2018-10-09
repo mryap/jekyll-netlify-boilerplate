@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Losing My Domain Name
-date: 2018-10-08 16:59
+date: '2018-10-08 16:59'
 ---
 
 I used to have a personal site with domain name `getoptimise` dot com
