@@ -1,15 +1,15 @@
 ---
-layout: "post"
-title: "Common Mistakes in using GitHub"
+layout: post
+title: Common Mistakes in using GitHub
 date: "2018-10-09 13:11"
-categories: "Data Science"
+# categories: "Data Science"
 ---
 
 # Git push requires username and password
 
 You cloned a git repository from your Github account to your PC.
 
-When you try to push to or pull from Github using your PC, it requires username and password every time. 
+When you try to push to or pull from Github using your PC, it requires username and password every time.
 
 ## Using SSH
 
