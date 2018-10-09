@@ -24,8 +24,10 @@ A common mistake is cloning using the default (HTTPS) instead of SSH. You can co
 
 If you're cloning GitHub repositories using HTTPS, you can use a credential helper to tell Git to remember your GitHub username and password every time it talks to GitHub.
 
-`$ git config credential.helper store`
-`$ git push https://github.com/repo.git`
+{% highlight %}
+$ git config credential.helper store`
+$ git push https://github.com/repo.git`
 
-`Username for 'https://github.com': <USERNAME>`
-`Password for 'https://USERNAME@github.com': <PASSWORD>`
+Username for 'https://github.com': <USERNAME>`
+Password for 'https://USERNAME@github.com': <PASSWORD>`
+{% endhighlight %}
